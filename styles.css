@@ -17,6 +17,10 @@ body {
     
 }
 
+img:hover {
+ transform: scale(1.2);
+}
+
 .card {
     width: 400px;
     margin: 0 auto;
